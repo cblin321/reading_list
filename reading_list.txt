@@ -5,6 +5,7 @@ Pat Dorsey - The Little Book That Builds Wealth
 Aswath Damodaran - Applied Corporate Finance 
 
 Shelf:
+John Train - The Money Masters
 Lock, et al. - Statistics: Unlocking the Power of Data
 Simon Holmes - Getting MEAN with Mongo, Express, Angular, and Node 
 Neil Chriss - Black-Scholes and Beyond
